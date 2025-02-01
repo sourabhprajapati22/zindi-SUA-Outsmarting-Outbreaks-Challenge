@@ -19,5 +19,3 @@ git clone https://github.com/sourabhprajapati22/zindi-SUA-Outsmarting-Outbreaks-
 ```
 cd zindi-SUA-Outsmarting-Outbreaks-Challenge
 ```
-
-5. Make template.py to crate all folders architecture
