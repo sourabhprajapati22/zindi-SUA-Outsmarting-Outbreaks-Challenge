@@ -19,3 +19,14 @@ git clone https://github.com/sourabhprajapati22/zindi-SUA-Outsmarting-Outbreaks-
 ```
 cd zindi-SUA-Outsmarting-Outbreaks-Challenge
 ```
+5. Take github steps
+
+```
+git init
+git add .
+git commit -m "first commit"
+git status
+git branch
+git remote add origin https://github.com/sourabhprajapati22/zindi-SUA-Outsmarting-Outbreaks-Challenge.git
+git push -u orgin main
+```
