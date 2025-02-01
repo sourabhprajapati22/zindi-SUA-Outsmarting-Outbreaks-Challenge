@@ -30,3 +30,11 @@ git branch
 git remote add origin https://github.com/sourabhprajapati22/zindi-SUA-Outsmarting-Outbreaks-Challenge.git
 git push -u orgin main
 ```
+6. Create setup.py
+
+```
+#requirements.txt packages read as a list wihout las tline '-e .'
+
+# install all info
+python stup.py install or pip install -r requirements.txt
+```
